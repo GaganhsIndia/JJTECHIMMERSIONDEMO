@@ -2,3 +2,4 @@ This is fileA
 This is the first change
 second change
 third change
+fourth change
